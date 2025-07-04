@@ -4,7 +4,7 @@ Get the Latest Brother Printer Drivers – Quick Install & Support
 
 .. image:: get.png
    :alt: Brother Printer Drivers
-   :target: https://fm.ci?aHR0cHM6Ly9icm90aGVycHJpbnRlcmd1aWRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://wwwbrotherprinterdrivers.jimdosite.com/
 
 Are you searching for the latest **Brother printer drivers** to keep your device running smoothly? Whether you're setting up a new printer, upgrading your system, or troubleshooting issues, having the correct driver is critical. In this complete guide, you'll learn how to download, install, and update your Brother printer drivers with ease.
 
